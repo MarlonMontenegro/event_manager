@@ -17,7 +17,7 @@ Throughout this tutorial, I've gained knowledge and skills in:
 - Accessing Google's Civic Information API using the Google API Client Gem.
 - Creating dynamic templates using ERB (Embedded Ruby).
 
-Completing this tutorial has provided me with a solid foundation for handling real-world data scenarios. Let's dive into the exercises and start engaging with event management data!
+Completing this tutorial has provided me with a solid foundation for handling real-world data scenarios.
 
 ##ERB Templates 
 ![image](https://github.com/MarlonMontenegro/event_manager/assets/103525183/9672232e-e050-4adf-9730-cced1cf39acf)
