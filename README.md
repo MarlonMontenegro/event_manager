@@ -2,7 +2,7 @@
 
 ## Exercise
 
-In this tutorial, I will assist a non-profit organization focused on political activism. Your task is to engage event attendees by finding their government representatives based on zip codes.
+This is a tutorial from The Odin Project's Ruby on Rails path. In this tutorial, you will learn to assist a non-profit organization focused on political activism. Your task is to engage event attendees by finding their government representatives based on zip codes.
 
 ## What I've Learned
 
